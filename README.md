@@ -99,7 +99,3 @@ KDDI株式会社 入社
 - JavaScript / TypeScript
 - Firebase / Firestore
 - GCP、AWS
-
-# スタッツ
-
-[![mathrunet Stats](https://github-readme-stats.vercel.app/api?username=mathrunet&theme=dracula&hide_title=true)](https://github.com/mathrunet)
