@@ -87,7 +87,7 @@ KDDI株式会社 入社
 チームEGG株式会社 設立 CTOとして就任
 株式会社mUniSm 設立 CEOとして就任
 
-株式会社ORPHE 入社
+株式会社ORPHE 入社 執行役員 VPoEとして就任
 
 # スキルセット
 
@@ -95,7 +95,8 @@ KDDI株式会社 入社
 - C#(Unity)
 - PHP(Laravel、WordPress)
 - Python
-- HTML / CSS
-- JavaScript / TypeScript
+- HTML / CSS　（Bootstrap、Tailwind）
+- JavaScript / TypeScript　（Node）
 - Firebase / Firestore
-- GCP、AWS
+- GCP、AWS、Cloudflare
+- Git、Slack、Notion
