@@ -105,3 +105,62 @@ KDDI株式会社 入社
 - Firebase / Firestore
 - GCP、AWS、Cloudflare
 - Git、Slack、Notion
+
+# 実績
+
+## Web
+
+- 個人サイト作成
+    
+    https://mathru.net
+    
+- TeamEgg株式会社での実績
+    - 麻酔科医仕事斡旋サイト
+- 株式会社mUniSmでの実績
+    - ノーコードゲーム作成プラットフォーム開発
+- フリーランスでの実績
+    - 個人WebサイトへのEC機能の実装
+
+## Unity
+
+- AssetStoreでのプラグイン販売
+    
+    https://assetstore.unity.com/publishers/45031
+    
+- TeamEgg株式会社での実績
+    - リズムソーシャルゲーム開発
+- 株式会社mUniSmでの実績
+    - ノーコードゲーム作成プラットフォーム開発
+- フリーランスでの実績
+    - アプリ用のサブスクリプションプラグインパッケージの作成
+
+## Flutter
+
+- ココナラでの制作実績
+    - 引越家財補助アプリ
+    - 店舗予約システム
+    - クローズドSNS
+    - カレンダーアプリ
+    - コスプレイヤー・カメラマンマッチングアプリ
+    - 習い事予約システム
+    - 老後貯蓄計画計算アプリ
+    - モルモット育成管理アプリ
+    - ポータルアプリ
+    - 英語学習アプリ
+    - 合コン席決めアプリ
+    - ドライブ映像ストリーミングサービス
+    - ビデオストリーミングSNS
+    
+    など
+    
+- Masamune/Katanaフレームワークの開発・配信
+    
+    https://github.com/mathrunet
+    
+    https://pub.dev/publishers/mathru.net/packages
+    
+- 株式会社ORPHEでの実績
+    - ランニング記録アプリ開発
+    - ウォーキング記録アプリ開発
+    - 歩容解析ツールの開発（FlutterWeb）
+    - 医療向け歩行改善ツールの開発
