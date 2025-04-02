@@ -82,7 +82,7 @@ Liunxでのサーバー構築経験
 
 ## コンサルティング業務
 
-ココナラにてアプリ開発に関わるコンサルティングを実施
+ココナラにてアプリ開発に関わるコンサルティングを60件以上実施
 
 みずほ銀行関連企業様にてアプリ開発に関わるコンサルティングを実施
 
@@ -106,11 +106,14 @@ KDDI株式会社 入社
 - C#(Unity)
 - PHP(Laravel, WordPress)
 - Python
+- SQL
 - HTML / CSS　（Bootstrap、Tailwind）
 - JavaScript / TypeScript　（AstroJs、NodeJs）
 - Firebase / Firestore
+- TiDB
 - GCP、AWS、Cloudflare
-- Git、Slack、Notion
+- Git、Gibhub、Gitlab、Slack、Notion
+- GPT、Gemini、Claude、Cursor
 
 # 実績
 
@@ -157,6 +160,8 @@ KDDI株式会社 入社
     - ドライブ映像ストリーミングサービス
     - ビデオストリーミングSNS
     - 株の利回り監視・通知アプリ
+    - 医療向けニュースアプリ
+    - クーポンアプリ
     
     など
     
